@@ -2,8 +2,8 @@
 $ pkg update && pkg upgrade <br>
 $ pkg install python2 <br>
 $ pkg install git <br>
-$ git clone https://github.com/Mark-Zuck/zafi <br>
-$ cd zafi <br>
+$ git clone https://github.com/ikiwz-XD/fb-and-igeh <br>
+$ cd fb-and-igeh <br>
 $ pip2 install -r zona.zafi <br>
 $ python2 zafi.py <br>
 #
@@ -11,6 +11,7 @@ $ python2 zafi.py <br>
  [01] Dump id public <br>
  [02] Dump id followers <br>
  [03] Dump id reaction post <br>
+ [26] Dum id pencarian nama (ig) <br>
  [04] Start crack <br>
  [05] Ganti user agent <br>
  [06] Cek hasil crack <br>
@@ -25,5 +26,5 @@ If you can't use this script or there is a bug in the script, please contact me
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/romi.afrizal.102)
 [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6282371648186?text=Asalamualaikum+bang)
 #### Donasi Dana :
-+6282371648186
++6282117527753
 #
