@@ -10,13 +10,13 @@ ingfo = (
 """%s
  • Info script :
  	
- - author      : Romi Afrizal
+ - author      : ikiwz-XD
  - facebook    : facebook.com/romi.afrizal.102
  - fanspage    : facebook.com/100022086172556
  - whatsap     : +6282371648186
- - github      : github.com/Mark-Zuck
+ - github      : github.com/ikiw-XD
  - script name : ZAFI (Zona Akun Facebook Indonesia)
- - version     : 1.1
+ - version     : 1.2
  
 %s"""%(Hj,Mt))
 import os
