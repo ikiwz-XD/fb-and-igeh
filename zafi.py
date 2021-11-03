@@ -715,7 +715,7 @@ def hasill(c):
 		else:
 			exit()
 def igg():
-	print ("\n%s [%s!%s] Cth nama %s: %sRomi "%(P,M,P,M,K))
+	print ("\n%s [%s!%s] Cth nama %s: %siky "%(P,M,P,M,K))
 	usr_ = raw_input('%s [?] Input nama > %s'%(P,K))
 	jumlah = input('%s [?] Limit user > %s'%(P,K))
 	bff_2 = usr_.replace(" ", "")
@@ -726,8 +726,8 @@ def igg():
 		mi.append(bff_2+str(_i_)+"|"+bff_2)
 		mi.append(bff_2+"_"+str(_i_)+"|"+bff_2)
 		mi.append(bff_2+str(_i_)+"_"+"|"+bff_2)
-	print '\n%s [%s*%s] akun %sOK%s tersimpan di >%s okeh.txt'%(P,K,P,H,P,H);jeda(0.2)
-	print '%s [%s*%s] akun %sCP %stersimpan di > %scepeh.txt\n'%(P,K,P,K,P,K);jeda(0.2)
+	print '\n%s [%s*%s] akun %sOK%s tersimpan di >%s langsung.txt'%(P,K,P,H,P,H);jeda(0.2)
+	print '%s [%s*%s] akun %sCP %stersimpan di > %ssesi.txt\n'%(P,K,P,K,P,K);jeda(0.2)
 	with ThreadPoolExecutor(max_workers=30) as log:
 		for ro in mi:
 			try:
