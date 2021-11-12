@@ -600,7 +600,7 @@ def uas():
     elif u in("0","00"):
     	menu()
     else:
-        print("%s [!] Isi yang benar kentod "%(M));jeda(2);uas()
+        print("%s [!] Isi yang benar kentod "%(M));jeda(1);uas()
 # MENU INI AJG
 def menu():
     os.system('clear')
